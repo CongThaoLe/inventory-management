@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="inventory_management" match-name="auth"/>
+  <table-filter match-catalog="inventory_management" match-name="category"/>
+  <table-filter match-catalog="inventory_management" match-name="history"/>
+  <table-filter match-catalog="inventory_management" match-name="invoice"/>
+  <table-filter match-catalog="inventory_management" match-name="menu"/>
+  <table-filter match-catalog="inventory_management" match-name="product_in_stock"/>
+  <table-filter match-catalog="inventory_management" match-name="product_info"/>
+  <table-filter match-catalog="inventory_management" match-name="role"/>
+  <table-filter match-catalog="inventory_management" match-name="user_role"/>
+  <table-filter match-catalog="inventory_management" match-name="users"/>
+</hibernate-reverse-engineering>
